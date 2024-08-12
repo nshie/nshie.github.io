@@ -3,7 +3,7 @@ import { useState, useLayoutEffect } from 'react';
 
 function Navbar({ aboutId, projectsId, skillsId, contactId }) {
     const ids = [aboutId, skillsId, projectsId];
-    const activeId = useScrollspy(ids, 200);
+    const activeId = useScrollspy(ids, 280);
 
     console.log(ids);
 
