@@ -11,7 +11,7 @@ function App() {
 	const projectsId = "Projects";
 	
 	return (
-      <div className="max-w-screen-xl mx-auto px-6 md:p-0">
+      <div className="max-w-screen-xl mx-auto px-4 md:p-0">
 	  	<Navbar
 			aboutId={aboutId}
 			skillsId={skillsId}
