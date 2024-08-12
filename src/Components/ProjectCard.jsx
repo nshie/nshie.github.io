@@ -24,10 +24,10 @@ function ProjectCard({ imageSource, title, text, link="", github="", children })
                     {children}
                 </div>}
                 <div className="flex items-end h-full ml-2">
-                    {github && <a href={github}>
+                    {github && <a href={github} target="_blank" rel="noreferrer noopener">
                         <img src={githubIcon} className="min-w-7 min-h-7 max-w-7 max-h-7 hover:scale-110 transition-transform"></img>
                     </a>}
-                    {link && <a href={link}>
+                    {link && <a href={link} target="_blank" rel="noreferrer noopener">
                         <img src={externalIcon} className="min-w-7 min-h-7 max-w-7 max-h-7 hover:scale-110 transition-transform"></img>
                     </a>}
                 </div>
