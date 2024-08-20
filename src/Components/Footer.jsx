@@ -1,4 +1,4 @@
-import GithubIcon from '../assets/github-mark.svg';
+import GithubIcon from '../assets/github.svg';
 import MailIcon from '../assets/mail.svg';
 import LinkedinIcon from '../assets/linkedin.svg'
 import MapMarkerIcon from '../assets/map-marker.svg'
@@ -16,7 +16,7 @@ function Footer() {
                     <span className="hidden md:block">LinkedIn</span>
                 </a>
                 <a className="mr-6 flex items-center" href="https://github.com/nshie">
-                    <img src={GithubIcon} alt="Github" className="w-5 h-5 mr-1"></img>
+                    <img src={GithubIcon} alt="Github" className="w-[1.6rem] h-[1.6rem] mr-1"></img>
                     <span className="hidden md:block">Github</span>
                 </a>
                 <a className="flex items-center">
