@@ -1,0 +1,95 @@
+[
+    {
+        "title": "Osprey - Mechanical Keyboard",
+        "imageSource": "https://user-images.githubusercontent.com/65916936/131961091-ac390347-2dab-4dee-ab7f-d54b2e6b67e2.jpg",
+        "github": "https://github.com/nshie/Osprey",
+        "text": "Ortholinear mechanical keyboard. Custom designed PCB, hand-soldered components, and laser-cut acrylic case. Powered by Atmel ATmega32U4 MCU and QMK.",
+        "skills": [
+            {
+                "name": "C",
+                "color": "#3949ab"
+            },
+            {
+                "name": "Atmel AVR",
+                "color": "#2a5dba"
+            },
+            {
+                "name": "KiCad",
+                "color": "#2c41b8"
+            },
+            {
+                "name": "FreeCad",
+                "color": "#b82f2f"
+            }
+        ],
+        "featured": true
+    },
+    {
+        "title": "2xOsc - Digital Synthesizer",
+        "imageSource": "https://github.com/nshie/synthesizer/raw/main/example.png",
+        "github": "https://github.com/nshie/synthesizer",
+        "text": "Real-time digital synthesizer with 2 oscillators and 3 choices of waveform. Applies DSP techniques like FFT and low-pass filtering. Visualize with spectrum analyzer or waveform analyzer.",
+        "skills": [
+            {
+                "name": "Python",
+                "color": "#ffd43b"
+            },
+            {
+                "name": "PyQt",
+                "color": "#3bb837"
+            },
+            {
+                "name": "NumPy",
+                "color": "#4ac3f3"
+            }
+        ],
+        "featured": true
+    },
+    {
+        "title": "CopyPaste - Bluetooth Keyboard",
+        "imageSource": "https://github.com/nshie/CopyPaste/raw/main/Images/top-down.jpg",
+        "github": "https://github.com/nshie/CopyPaste",
+        "text": "Bluetooth, split mechanical keyboard. Reversible design with same PCB for both halves. Ports for OLED display, case screw mounts, and LED backlighting. Designed, soldered, and assembled from scratch.",
+        "skills": [
+            {
+                "name": "Bluetooth",
+                "color": "#2852db"
+            },
+            {
+                "name": "KiCad",
+                "color": "#2c41b8"
+            },
+            {
+                "name": "Python",
+                "color": "#ffd43b"
+            }
+        ],
+        "featured": true
+    },
+    {
+        "title": "Personal Portfolio",
+        "imageSource": "https://github.com/nshie/nshie.github.io/blob/main/src/assets/portolio-profile-page.jpeg?raw=true",
+        "link": "https://nshie.github.io",
+        "github": "https://github.com/nshie/nshie.github.io",
+        "text": "Personal portfolio website built with React, Javascript, and Tailwind. Features responsive UI design for best mobile and desktop experience.",
+        "skills": [
+            {
+                "name": "React",
+                "color": "#61dbfb"
+            },
+            {
+                "name": "JavaScript",
+                "color": "#f0db4f"
+            },
+            {
+                "name": "Tailwind",
+                "color": "#38bdf8"
+            },
+            {
+                "name": "HTML",
+                "color": "#e34c26"
+            }
+        ],
+        "featured": true
+    }
+]
