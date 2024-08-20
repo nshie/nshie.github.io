@@ -1,11 +1,8 @@
-import logo from '../assets/logo.png';
 import { useState, useLayoutEffect } from 'react';
 
-function Navbar({ aboutId, projectsId, skillsId, contactId }) {
+function Navbar({ aboutId, projectsId, skillsId }) {
     const ids = [aboutId, skillsId, projectsId];
     const activeId = useScrollspy(ids, 280);
-
-    console.log(ids);
 
     return (
         <nav className="sticky top-0">

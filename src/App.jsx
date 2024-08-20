@@ -3,7 +3,6 @@ import About from './Components/About';
 import Skills from './Components/Skills';
 import Projects from './Components/Projects';
 import Footer from './Components/Footer';
-import Contact from './Components/Contact';
 
 function App() {
     const aboutId = "Profile";
