@@ -11,7 +11,6 @@ import nodejsIcon from "../assets/nodejs.svg";
 import tailwindIcon from "../assets/tailwind.svg";
 import gitIcon from "../assets/git.svg";
 import githubIcon from "../assets/github.svg";
-import vscodeIcon from "../assets/vscode.svg";
 import vimIcon from "../assets/vim.svg";
 
 function Skills() {
@@ -72,10 +71,6 @@ function Skills() {
                         <img className="w-5 h-5 mr-1.5" src={githubIcon}></img>
                         <span>Github</span>
                     </div>
-                    <div className="w-fit m-1 px-1 py-0.5 bg-[#0078d7] items-center flex font-semibold text-white">
-                        <img className="w-5 h-5 mr-1.5" src={vscodeIcon}></img>
-                        <span>VS Code</span>
-                    </div>
                     <div className="w-fit m-1 px-1 py-0.5 bg-[#179A33] items-center flex font-semibold text-white">
                         <img className="w-5 h-5 mr-1.5" src={vimIcon}></img>
                         <span>Vim</span>
@@ -84,45 +79,6 @@ function Skills() {
             </div>
         </div>
     )
-}
-
-function Unused() {
-    return (
-        <>
-            <div>
-                <h1 className="text-xl">Frameworks & Libraries</h1>
-                <ul>
-                    //<li>React</li>
-                    <li>Node.js</li>
-                    <li>Tailwind CSS</li>
-                    <li>PyQt</li>
-                    <li>NumPy</li>
-                    <li>SciPy</li>
-                    <li>Matplotlib</li>
-                    <li>Google Cloud Platform</li>
-                    <li>Processing</li>
-                </ul>
-            </div>
-            <div>
-                <h1 className="text-xl">Developer Tools</h1>
-                <ul>
-                    <li>Git</li>
-                    <li>Github</li>
-                    <li>VS Code</li>
-                    <li>IntelliJ</li>
-                    <li>PyCharm</li>
-                    <li>Vim</li>
-                </ul>
-            </div>
-            <div>
-                <h1 className="text-xl">Hardware Tools</h1>
-                <ul>
-                    <li>KiCad</li>
-                    <li>FreeCad</li>
-                </ul>
-            </div>
-        </>
-    );
 }
 
 export default Skills;
