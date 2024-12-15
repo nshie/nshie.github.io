@@ -1,7 +1,7 @@
 [
     {
         "title": "PickleQ - Pickleball Court Management System",
-        "imageSource": "/src/assets/pickleQ.png",
+        "imageSource": "pickleQ.png",
         "link": "https://www.instagram.com/p/DAILHHLRpgp/",
         "text": "Pickleball court management system with audio cue and indicator lights for open courts, up to 8 courts, built with Arduino and RF technology.",
         "skills": [
@@ -81,7 +81,7 @@
     },
     {
         "title": "Personal Portfolio",
-        "imageSource": "https://github.com/nshie/nshie.github.io/blob/main/src/assets/portolio-profile-page.jpeg?raw=true",
+        "imageSource": "portolio-profile-page.jpeg",
         "link": "https://nshie.github.io",
         "github": "https://github.com/nshie/nshie.github.io",
         "text": "Personal portfolio website built with React, Javascript, and Tailwind. Features responsive UI design for best mobile and desktop experience.",

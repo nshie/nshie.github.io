@@ -1,4 +1,4 @@
-import GithubIcon from '../assets/github.svg';
+import GithubIcon from '/github.svg';
 import MailIcon from '../assets/mail.svg';
 import LinkedinIcon from '../assets/linkedin.svg'
 import MapMarkerIcon from '../assets/map-marker.svg'

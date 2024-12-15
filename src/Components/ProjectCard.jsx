@@ -1,4 +1,4 @@
-import githubIcon from "../assets/github.svg";
+import githubIcon from "/github.svg";
 import externalIcon from "../assets/external.svg";
 
 function ProjectCard({ imageSource, title, text, link="", github="", children }) {
