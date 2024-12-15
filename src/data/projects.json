@@ -1,5 +1,18 @@
 [
     {
+        "title": "PickleQ - Pickleball Court Management System",
+        "imageSource": "/src/assets/pickleQ.png",
+        "link": "https://www.instagram.com/p/DAILHHLRpgp/",
+        "text": "Pickleball court management system with audio cue and indicator lights for open courts, up to 8 courts, built with Arduino and RF technology.",
+        "skills": [
+            {
+                "name": "Arduino",
+                "color": "#ffd43b"
+            }
+        ],
+        "featured": true
+    },
+    {
         "title": "Osprey - Mechanical Keyboard",
         "imageSource": "https://user-images.githubusercontent.com/65916936/131961091-ac390347-2dab-4dee-ab7f-d54b2e6b67e2.jpg",
         "github": "https://github.com/nshie/Osprey",
@@ -43,7 +56,7 @@
                 "color": "#4ac3f3"
             }
         ],
-        "featured": true
+        "featured": false
     },
     {
         "title": "CopyPaste - Bluetooth Keyboard",
