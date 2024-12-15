@@ -1,0 +1,134 @@
+[
+    {
+        "name": "Java",
+        "color": "#007396",
+        "textColor": "white",
+        "image": "/src/assets/java.svg"
+    },
+    {
+        "name": "Python",
+        "color": "#ffd43b",
+        "textColor": "black",
+        "image": "/src/assets/python.svg"
+    },
+    {
+        "name": "C Language",
+        "color": "#3949ab",
+        "textColor": "white",
+        "image": "/src/assets/c-programming.svg"
+    },
+    {
+        "name": "Swift",
+        "color": "#f05138",
+        "textColor": "white",
+        "image": "/src/assets/swift.svg"
+    },
+    {
+        "name": "JavaScript",
+        "color": "#f0db4f",
+        "textColor": "black",
+        "image": "src/assets/javascript.svg"
+    },
+    {
+        "name": "TypeScript",
+        "color": "#007acc",
+        "textColor": "white",
+        "image": "src/assets/typescript.svg"
+    },
+    {
+        "name": "HTML",
+        "color": "#e34c26",
+        "textColor": "white",
+        "image": "src/assets/html.svg"
+    },
+    {
+        "name": "CSS",
+        "color": "#264de4",
+        "textColor": "white",
+        "image": "src/assets/css.svg"
+    },
+    {
+        "name": "React",
+        "color": "#61dbfb",
+        "textColor": "black",
+        "image": "src/assets/react.svg"
+    },
+    {
+        "name": "Node.js",
+        "color": "#3d973a",
+        "textColor": "white",
+        "image": "src/assets/nodejs.svg"
+    },
+    {
+        "name": "Tailwind",
+        "color": "#38dbf8",
+        "textColor": "black",
+        "image": "src/assets/tailwind.svg"
+    },
+    {
+        "name": "Git",
+        "color": "#f1602f",
+        "textColor": "white",
+        "image": "src/assets/git.svg"
+    },
+    {
+        "name": "Github",
+        "color": "#32383e",
+        "textColor": "white",
+        "image": "src/assets/github.svg"
+    },
+    {
+        "name": "Vim",
+        "color": "#179a33",
+        "textColor": "white",
+        "image": "src/assets/vim.svg"
+    },
+    {
+        "name": "Arduino",
+        "color": "#00878f",
+        "textColor": "white",
+        "image": "src/assets/arduino.svg"
+    },
+    {
+        "name": "Django",
+        "color": "#092e20",
+        "textColor": "white",
+        "image": "src/assets/django.svg"
+    },
+    {
+        "name": "Sass",
+        "color": "#f06292",
+        "textColor": "white",
+        "image": "src/assets/sass.svg"
+    },
+    {
+        "name": "Next.js",
+        "color": "#000000",
+        "textColor": "white",
+        "image": "src/assets/nextjs.svg"
+    },
+    {
+        "name": "Solidworks",
+        "color": "#da291c",
+        "textColor": "white",
+        "image": "src/assets/solidworks.svg"
+    },
+    {
+        "name": "PostgreSQL",
+        "color": "#336791",
+        "textColor": "white",
+        "image": "src/assets/postgresql.svg"
+    },
+    {
+        "name": "Express.js",
+        "color": "#3c873a",
+        "textColor": "white",
+        "image": "src/assets/expressjs.svg"
+    },
+    {
+        "name": "Angular",
+        "color": "#a6120d",
+        "textColor": "white",
+        "image": "src/assets/angular.svg"
+    }
+]
